@@ -7,3 +7,6 @@ display: flex; /* Transforma a lista em flex container */
   background-color: gray;
   color: white;
 }
+.menu li a{
+  color:white;
+}
