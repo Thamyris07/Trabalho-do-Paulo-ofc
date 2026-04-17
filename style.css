@@ -1,0 +1,9 @@
+.menu {
+display: flex; /* Transforma a lista em flex container */
+  list-style: none; /* Remove os pontinhos (bullets) */
+  padding: 0;
+  margin: 0;
+  gap: 15px; /* Espaçamento entre os itens */
+  background-color: gray;
+  color: white;
+}
